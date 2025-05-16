@@ -1,12 +1,23 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpsalexvasquez/backendseminario.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gpsalexvasquez/backendseminario/issues"
+  },
+  "homepage": "https://github.com/gpsalexvasquez/backendseminario#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
